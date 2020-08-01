@@ -8,9 +8,9 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on [MAIYA MEDIA](//www.maiyawx.com) as a technical lead.
-- 🌱 I’m currently learning  `Algorithm` and `Spark`.
+- 🌱 I’m currently learning  [Algorithm](https://leetcode-cn.com/u/zi-shan-e/) and [Spark](http://spark.apache.org/).
 - 💬 Ask me about programming.
-- 📫 How to reach me: [home page](//louislivi.com)
+- 📫 How to reach me: [home page](//louislivi.com).
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Ubuntu%20Linux-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.ubuntu.com/)
