@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 [![](https://img.shields.io/badge/Ubuntu%20Linux-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.ubuntu.com/)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://github.com/louislivi/Hackintosh)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/IDE-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/)
 
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
