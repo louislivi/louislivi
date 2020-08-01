@@ -7,7 +7,7 @@
 Here are some ideas to get you started: -->
 
 
-- 🔭 I’m currently working on [MAIYA](//www.maiyawx.com) as a technical lead.
+- 🔭 I’m currently working on [MAIYA MEDIA](//www.maiyawx.com) as a technical lead.
 - 🌱 I’m currently learning  `Algorithm` and `Spark`.
 - 💬 Ask me about programming.
 - 📫 How to reach me: [home page](//louislivi.com)
